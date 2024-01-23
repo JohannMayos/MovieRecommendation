@@ -15,31 +15,29 @@ st.write("Bem-vindo à nossa aplicação, nela você indicará quais gêneros de
 st.header("Gêneros de Filmes")
 
 genres_dict = {
-    "Ação": False,
-    "Aventura": False,
-    "Fantasia": False,
-    "Ficção Científica": False,
+    "Action": False,
+    "Adventure": False,
+    "Fantasy": False,
+    "Science Fiction": False,
     "Crime": False,
     "Drama": False,
     "Thriller": False,
-    "Animação": False,
-    "Família": False,
+    "Animation": False,
+    "Family": False,
     "Romance": False,
     "Horror": False,
-    "Mistério": False,
-    "História": False,
-    "Guerra": False,
-    "Comédia": False,
-    "Velho Oeste": False,
-    "Música": False
+    "Mystery": False,
+    "History": False,
+    "War": False,
+    "Comedy": False,
+    "Western": False,
+    "Music": False
 }
 
 for genre in genres_dict:
     genres_dict[genre] = st.checkbox(genre)
 
-
 selected_genres = [genre for genre, state in genres_dict.items() if state]
-
 
 
 if st.button("Obter Recomendações"):

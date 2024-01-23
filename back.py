@@ -63,11 +63,3 @@ def recommend_by_movie(i, M, items, k=10):
 
     return pd.DataFrame(closest).merge(items).head(k)
 
-################ Teste de uso do sistema #################
-
-# Gêneros indicados pelo usuário
-user_profile = ['Adventure', 'Science Fiction']
-recommendations = recommend_by_genres(user_profile)
-
-print("Filmes recomendados para este usuário:")
-print(recommendations)
