@@ -1,0 +1,101 @@
+budget,genres,id,original_title,runtime,vote_average,vote_count
+237000000,"[{""id"": 28, ""name"": ""Action""}, {""id"": 12, ""name"": ""Adventure""}, {""id"": 14, ""name"": ""Fantasy""}, {""id"": 878, ""name"": ""Science Fiction""}]",19995,Avatar,162,7.2,11800
+250000000,"[{""id"": 28, ""name"": ""Action""}, {""id"": 80, ""name"": ""Crime""}, {""id"": 18, ""name"": ""Drama""}, {""id"": 53, ""name"": ""Thriller""}]",49026,The Dark Knight Rises,165,7.6,9106
+260000000,"[{""id"": 16, ""name"": ""Animation""}, {""id"": 10751, ""name"": ""Family""}]",38757,Tangled,100,7.4,3330
+270000000,"[{""id"": 12, ""name"": ""Adventure""}, {""id"": 14, ""name"": ""Fantasy""}, {""id"": 28, ""name"": ""Action""}, {""id"": 878, ""name"": ""Science Fiction""}]",1452,Superman Returns,154,5.4,1400
+225000000,"[{""id"": 28, ""name"": ""Action""}, {""id"": 12, ""name"": ""Adventure""}, {""id"": 14, ""name"": ""Fantasy""}, {""id"": 878, ""name"": ""Science Fiction""}]",49521,Man of Steel,143,6.5,6359
+220000000,"[{""id"": 878, ""name"": ""Science Fiction""}, {""id"": 28, ""name"": ""Action""}, {""id"": 12, ""name"": ""Adventure""}]",24428,The Avengers,143,7.4,11776
+215000000,"[{""id"": 28, ""name"": ""Action""}, {""id"": 12, ""name"": ""Adventure""}, {""id"": 14, ""name"": ""Fantasy""}]",1930,The Amazing Spider-Man,136,6.5,6586
+207000000,"[{""id"": 12, ""name"": ""Adventure""}, {""id"": 18, ""name"": ""Drama""}, {""id"": 28, ""name"": ""Action""}]",254,King Kong,187,6.6,2337
+200000000,"[{""id"": 18, ""name"": ""Drama""}, {""id"": 10749, ""name"": ""Romance""}, {""id"": 53, ""name"": ""Thriller""}]",597,Titanic,194,7.5,7562
+150000000,"[{""id"": 28, ""name"": ""Action""}, {""id"": 12, ""name"": ""Adventure""}, {""id"": 878, ""name"": ""Science Fiction""}, {""id"": 53, ""name"": ""Thriller""}]",135397,Jurassic World,124,6.5,8662
+200000000,"[{""id"": 28, ""name"": ""Action""}, {""id"": 12, ""name"": ""Adventure""}, {""id"": 53, ""name"": ""Thriller""}]",37724,Skyfall,143,6.9,7604
+200000000,"[{""id"": 10751, ""name"": ""Family""}, {""id"": 14, ""name"": ""Fantasy""}, {""id"": 12, ""name"": ""Adventure""}]",12155,Alice in Wonderland,108,6.4,4645
+200000000,"[{""id"": 12, ""name"": ""Adventure""}, {""id"": 28, ""name"": ""Action""}, {""id"": 53, ""name"": ""Thriller""}, {""id"": 878, ""name"": ""Science Fiction""}]",44912,Green Lantern,114,5.1,2487
+200000000,"[{""id"": 28, ""name"": ""Action""}, {""id"": 878, ""name"": ""Science Fiction""}, {""id"": 53, ""name"": ""Thriller""}]",534,Terminator Salvation,115,5.9,2463
+200000000,"[{""id"": 28, ""name"": ""Action""}, {""id"": 18, ""name"": ""Drama""}, {""id"": 27, ""name"": ""Horror""}, {""id"": 878, ""name"": ""Science Fiction""}, {""id"": 53, ""name"": ""Thriller""}]",72190,World War Z,116,6.7,5560
+105000000,"[{""id"": 18, ""name"": ""Drama""}, {""id"": 10749, ""name"": ""Romance""}]",64682,The Great Gatsby,143,7.3,3769
+150000000,"[{""id"": 12, ""name"": ""Adventure""}, {""id"": 14, ""name"": ""Fantasy""}, {""id"": 28, ""name"": ""Action""}, {""id"": 10749, ""name"": ""Romance""}]",9543,Prince of Persia: The Sands of Time,116,6.2,2317
+180000000,"[{""id"": 28, ""name"": ""Action""}, {""id"": 878, ""name"": ""Science Fiction""}, {""id"": 12, ""name"": ""Adventure""}]",68726,Pacific Rim,131,6.7,4794
+175000000,"[{""id"": 12, ""name"": ""Adventure""}, {""id"": 16, ""name"": ""Animation""}, {""id"": 10751, ""name"": ""Family""}]",105864,The Good Dinosaur,93,6.6,1736
+180000000,"[{""id"": 16, ""name"": ""Animation""}, {""id"": 10751, ""name"": ""Family""}]",10681,WALL·E,98,7.8,6296
+200000000,"[{""id"": 28, ""name"": ""Action""}, {""id"": 12, ""name"": ""Adventure""}, {""id"": 878, ""name"": ""Science Fiction""}]",14161,2012,158,5.6,4903
+200000000,"[{""id"": 16, ""name"": ""Animation""}, {""id"": 18, ""name"": ""Drama""}]",17979,A Christmas Carol,96,6.6,1095
+185000000,"[{""id"": 18, ""name"": ""Drama""}, {""id"": 28, ""name"": ""Action""}, {""id"": 80, ""name"": ""Crime""}, {""id"": 53, ""name"": ""Thriller""}]",155,The Dark Knight,152,8.2,12002
+140000000,"[{""id"": 28, ""name"": ""Action""}, {""id"": 878, ""name"": ""Science Fiction""}, {""id"": 12, ""name"": ""Adventure""}]",1726,Iron Man,126,7.4,8776
+175000000,"[{""id"": 28, ""name"": ""Action""}, {""id"": 12, ""name"": ""Adventure""}, {""id"": 80, ""name"": ""Crime""}, {""id"": 14, ""name"": ""Fantasy""}, {""id"": 878, ""name"": ""Science Fiction""}]",297761,Suicide Squad,123,5.9,7458
+178000000,"[{""id"": 28, ""name"": ""Action""}, {""id"": 878, ""name"": ""Science Fiction""}]",137113,Edge of Tomorrow,113,7.6,4858
+175000000,"[{""id"": 10751, ""name"": ""Family""}, {""id"": 12, ""name"": ""Adventure""}, {""id"": 18, ""name"": ""Drama""}, {""id"": 14, ""name"": ""Fantasy""}]",278927,The Jungle Book,106,6.7,2892
+180000000,"[{""id"": 14, ""name"": ""Fantasy""}, {""id"": 12, ""name"": ""Adventure""}, {""id"": 28, ""name"": ""Action""}, {""id"": 10751, ""name"": ""Family""}, {""id"": 10749, ""name"": ""Romance""}]",102651,Maleficent,97,7.0,4496
+165000000,"[{""id"": 28, ""name"": ""Action""}, {""id"": 12, ""name"": ""Adventure""}, {""id"": 878, ""name"": ""Science Fiction""}]",47933,Independence Day: Resurgence,120,4.9,2491
+165000000,"[{""id"": 14, ""name"": ""Fantasy""}, {""id"": 12, ""name"": ""Adventure""}, {""id"": 16, ""name"": ""Animation""}, {""id"": 10751, ""name"": ""Family""}]",10191,How to Train Your Dragon,98,7.5,4227
+170000000,"[{""id"": 28, ""name"": ""Action""}, {""id"": 878, ""name"": ""Science Fiction""}, {""id"": 12, ""name"": ""Adventure""}]",118340,Guardians of the Galaxy,121,7.9,9742
+165000000,"[{""id"": 12, ""name"": ""Adventure""}, {""id"": 18, ""name"": ""Drama""}, {""id"": 878, ""name"": ""Science Fiction""}]",157336,Interstellar,169,8.1,10867
+160000000,"[{""id"": 28, ""name"": ""Action""}, {""id"": 53, ""name"": ""Thriller""}, {""id"": 878, ""name"": ""Science Fiction""}, {""id"": 9648, ""name"": ""Mystery""}, {""id"": 12, ""name"": ""Adventure""}]",27205,Inception,148,8.1,13752
+15000000,"[{""id"": 28, ""name"": ""Action""}, {""id"": 12, ""name"": ""Adventure""}, {""id"": 18, ""name"": ""Drama""}, {""id"": 27, ""name"": ""Horror""}, {""id"": 878, ""name"": ""Science Fiction""}]",315011,シン・ゴジラ,120,6.5,143
+38000000,"[{""id"": 28, ""name"": ""Action""}, {""id"": 80, ""name"": ""Crime""}, {""id"": 53, ""name"": ""Thriller""}]",9799,The Fast and the Furious,106,6.6,3428
+150000000,"[{""id"": 14, ""name"": ""Fantasy""}, {""id"": 18, ""name"": ""Drama""}, {""id"": 53, ""name"": ""Thriller""}, {""id"": 9648, ""name"": ""Mystery""}, {""id"": 10749, ""name"": ""Romance""}]",4922,The Curious Case of Benjamin Button,166,7.3,3292
+160000000,"[{""id"": 12, ""name"": ""Adventure""}, {""id"": 28, ""name"": ""Action""}, {""id"": 18, ""name"": ""Drama""}, {""id"": 53, ""name"": ""Thriller""}]",503,Poseidon,99,5.5,583
+160000000,"[{""id"": 28, ""name"": ""Action""}, {""id"": 12, ""name"": ""Adventure""}, {""id"": 14, ""name"": ""Fantasy""}]",68735,Warcraft,123,6.3,2268
+140000000,"[{""id"": 36, ""name"": ""History""}, {""id"": 10749, ""name"": ""Romance""}, {""id"": 10752, ""name"": ""War""}]",676,Pearl Harbor,183,6.6,1791
+150000000,"[{""id"": 12, ""name"": ""Adventure""}, {""id"": 878, ""name"": ""Science Fiction""}, {""id"": 28, ""name"": ""Action""}]",1858,Transformers,144,6.6,4040
+150000000,"[{""id"": 14, ""name"": ""Fantasy""}, {""id"": 28, ""name"": ""Action""}]",8960,Hancock,92,6.2,2961
+150000000,"[{""id"": 18, ""name"": ""Drama""}, {""id"": 27, ""name"": ""Horror""}, {""id"": 28, ""name"": ""Action""}, {""id"": 53, ""name"": ""Thriller""}, {""id"": 878, ""name"": ""Science Fiction""}]",6479,I Am Legend,101,6.9,4853
+150000000,"[{""id"": 12, ""name"": ""Adventure""}, {""id"": 35, ""name"": ""Comedy""}, {""id"": 10751, ""name"": ""Family""}, {""id"": 14, ""name"": ""Fantasy""}]",118,Charlie and the Chocolate Factory,115,6.7,3624
+150000000,"[{""id"": 16, ""name"": ""Animation""}, {""id"": 35, ""name"": ""Comedy""}, {""id"": 10751, ""name"": ""Family""}, {""id"": 14, ""name"": ""Fantasy""}]",2062,Ratatouille,111,7.5,4369
+150000000,"[{""id"": 28, ""name"": ""Action""}, {""id"": 12, ""name"": ""Adventure""}, {""id"": 878, ""name"": ""Science Fiction""}, {""id"": 53, ""name"": ""Thriller""}]",76341,Mad Max: Fury Road,120,7.2,9427
+150000000,"[{""id"": 12, ""name"": ""Adventure""}, {""id"": 14, ""name"": ""Fantasy""}, {""id"": 28, ""name"": ""Action""}]",10195,Thor,115,6.6,6525
+150000000,"[{""id"": 28, ""name"": ""Action""}, {""id"": 12, ""name"": ""Adventure""}, {""id"": 10751, ""name"": ""Family""}, {""id"": 14, ""name"": ""Fantasy""}]",10196,The Last Airbender,103,4.7,1151
+175000000,"[{""id"": 12, ""name"": ""Adventure""}, {""id"": 18, ""name"": ""Drama""}, {""id"": 10752, ""name"": ""War""}]",652,Troy,163,6.9,2759
+144000000,"[{""id"": 28, ""name"": ""Action""}, {""id"": 14, ""name"": ""Fantasy""}, {""id"": 35, ""name"": ""Comedy""}]",43074,Ghostbusters,116,5.3,2142
+139000000,"[{""id"": 14, ""name"": ""Fantasy""}, {""id"": 28, ""name"": ""Action""}]",557,Spider-Man,121,6.8,5265
+130000000,"[{""id"": 28, ""name"": ""Action""}, {""id"": 9648, ""name"": ""Mystery""}, {""id"": 878, ""name"": ""Science Fiction""}]",13183,Watchmen,163,7.0,2811
+135000000,"[{""id"": 16, ""name"": ""Animation""}, {""id"": 35, ""name"": ""Comedy""}, {""id"": 10751, ""name"": ""Family""}, {""id"": 37, ""name"": ""Western""}, {""id"": 12, ""name"": ""Adventure""}]",44896,Rango,107,6.6,2051
+130000000,"[{""id"": 878, ""name"": ""Science Fiction""}, {""id"": 28, ""name"": ""Action""}, {""id"": 12, ""name"": ""Adventure""}]",102899,Ant-Man,117,7.0,5880
+125000000,"[{""id"": 53, ""name"": ""Thriller""}, {""id"": 9648, ""name"": ""Mystery""}]",591,The Da Vinci Code,149,6.5,2704
+125000000,"[{""id"": 28, ""name"": ""Action""}, {""id"": 12, ""name"": ""Adventure""}, {""id"": 878, ""name"": ""Science Fiction""}, {""id"": 53, ""name"": ""Thriller""}]",435,The Day After Tomorrow,124,6.2,2392
+120000000,"[{""id"": 12, ""name"": ""Adventure""}, {""id"": 18, ""name"": ""Drama""}, {""id"": 28, ""name"": ""Action""}]",87827,Life of Pi,127,7.2,5797
+130000000,"[{""id"": 878, ""name"": ""Science Fiction""}, {""id"": 12, ""name"": ""Adventure""}, {""id"": 9648, ""name"": ""Mystery""}]",70981,Prometheus,124,6.3,5080
+115000000,"[{""id"": 878, ""name"": ""Science Fiction""}, {""id"": 28, ""name"": ""Action""}, {""id"": 18, ""name"": ""Drama""}, {""id"": 53, ""name"": ""Thriller""}]",68724,Elysium,109,6.4,3439
+120000000,"[{""id"": 28, ""name"": ""Action""}, {""id"": 878, ""name"": ""Science Fiction""}]",97020,RoboCop,102,5.7,2342
+115000000,"[{""id"": 16, ""name"": ""Animation""}, {""id"": 35, ""name"": ""Comedy""}, {""id"": 10751, ""name"": ""Family""}]",585,"Monsters, Inc.",92,7.5,5996
+110000000,"[{""id"": 28, ""name"": ""Action""}, {""id"": 12, ""name"": ""Adventure""}, {""id"": 35, ""name"": ""Comedy""}, {""id"": 10751, ""name"": ""Family""}, {""id"": 14, ""name"": ""Fantasy""}]",1593,Night at the Museum,108,6.3,2862
+110000000,"[{""id"": 28, ""name"": ""Action""}, {""id"": 35, ""name"": ""Comedy""}, {""id"": 18, ""name"": ""Drama""}, {""id"": 53, ""name"": ""Thriller""}]",787,Mr. & Mrs. Smith,120,6.5,2965
+120000000,"[{""id"": 28, ""name"": ""Action""}, {""id"": 878, ""name"": ""Science Fiction""}]",2048,"I, Robot",115,6.7,3793
+100000000,"[{""id"": 18, ""name"": ""Drama""}, {""id"": 37, ""name"": ""Western""}]",68718,Django Unchained,165,7.8,10099
+100000000,"[{""id"": 18, ""name"": ""Drama""}, {""id"": 16, ""name"": ""Animation""}, {""id"": 10751, ""name"": ""Family""}]",10545,The Hunchback of Notre Dame,91,6.8,1129
+100000000,"[{""id"": 18, ""name"": ""Drama""}, {""id"": 53, ""name"": ""Thriller""}, {""id"": 28, ""name"": ""Action""}]",1372,Blood Diamond,143,7.3,2281
+85000000,"[{""id"": 16, ""name"": ""Animation""}, {""id"": 35, ""name"": ""Comedy""}, {""id"": 10751, ""name"": ""Family""}]",9408,Surf's Up,85,5.9,601
+115000000,"[{""id"": 12, ""name"": ""Adventure""}, {""id"": 14, ""name"": ""Fantasy""}, {""id"": 28, ""name"": ""Action""}, {""id"": 53, ""name"": ""Thriller""}]",1995,Lara Croft: Tomb Raider,100,5.7,2192
+95000000,"[{""id"": 12, ""name"": ""Adventure""}, {""id"": 14, ""name"": ""Fantasy""}, {""id"": 10751, ""name"": ""Family""}]",32657,Percy Jackson & the Olympians: The Lightning Thief,118,6.0,2010
+90000000,"[{""id"": 28, ""name"": ""Action""}, {""id"": 12, ""name"": ""Adventure""}, {""id"": 35, ""name"": ""Comedy""}, {""id"": 878, ""name"": ""Science Fiction""}]",607,Men in Black,98,6.9,4412
+90000000,"[{""id"": 16, ""name"": ""Animation""}, {""id"": 10751, ""name"": ""Family""}, {""id"": 12, ""name"": ""Adventure""}]",10674,Mulan,88,7.6,2008
+90000000,"[{""id"": 28, ""name"": ""Action""}, {""id"": 12, ""name"": ""Adventure""}, {""id"": 80, ""name"": ""Crime""}, {""id"": 9648, ""name"": ""Mystery""}]",10528,Sherlock Holmes,128,7.0,5766
+100000000,"[{""id"": 18, ""name"": ""Drama""}, {""id"": 878, ""name"": ""Science Fiction""}, {""id"": 12, ""name"": ""Adventure""}]",644,A.I. Artificial Intelligence,146,6.8,1974
+60000000,"[{""id"": 28, ""name"": ""Action""}, {""id"": 12, ""name"": ""Adventure""}, {""id"": 35, ""name"": ""Comedy""}]",22538,Scott Pilgrim vs. the World,112,7.2,2126
+84000000,"[{""id"": 9648, ""name"": ""Mystery""}, {""id"": 12, ""name"": ""Adventure""}, {""id"": 35, ""name"": ""Comedy""}]",9637,Scooby-Doo,88,5.4,820
+82500000,"[{""id"": 35, ""name"": ""Comedy""}, {""id"": 18, ""name"": ""Drama""}, {""id"": 14, ""name"": ""Fantasy""}, {""id"": 10749, ""name"": ""Romance""}]",9339,Click,107,6.0,2104
+80000000,"[{""id"": 12, ""name"": ""Adventure""}, {""id"": 28, ""name"": ""Action""}, {""id"": 53, ""name"": ""Thriller""}]",954,Mission: Impossible,110,6.7,2631
+75000000,"[{""id"": 878, ""name"": ""Science Fiction""}, {""id"": 12, ""name"": ""Adventure""}, {""id"": 14, ""name"": ""Fantasy""}]",70160,The Hunger Games,142,6.9,9455
+80000000,"[{""id"": 16, ""name"": ""Animation""}, {""id"": 10751, ""name"": ""Family""}]",11544,Lilo & Stitch,85,7.1,1314
+80000000,"[{""id"": 28, ""name"": ""Action""}, {""id"": 53, ""name"": ""Thriller""}, {""id"": 878, ""name"": ""Science Fiction""}]",20504,The Book of Eli,118,6.6,2164
+80000000,"[{""id"": 16, ""name"": ""Animation""}, {""id"": 35, ""name"": ""Comedy""}, {""id"": 18, ""name"": ""Drama""}, {""id"": 10751, ""name"": ""Family""}, {""id"": 14, ""name"": ""Fantasy""}]",2300,Space Jam,88,6.5,1288
+80000000,"[{""id"": 12, ""name"": ""Adventure""}, {""id"": 10751, ""name"": ""Family""}, {""id"": 878, ""name"": ""Science Fiction""}]",2157,Lost in Space,130,5.0,388
+45000000,"[{""id"": 10751, ""name"": ""Family""}, {""id"": 16, ""name"": ""Animation""}, {""id"": 18, ""name"": ""Drama""}]",8587,The Lion King,89,8.0,5376
+64000000,"[{""id"": 12, ""name"": ""Adventure""}, {""id"": 16, ""name"": ""Animation""}, {""id"": 14, ""name"": ""Fantasy""}]",309809,The Little Prince,92,7.6,756
+75000000,"[{""id"": 28, ""name"": ""Action""}, {""id"": 12, ""name"": ""Adventure""}, {""id"": 878, ""name"": ""Science Fiction""}]",602,Independence Day,145,6.7,3260
+75000000,"[{""id"": 10751, ""name"": ""Family""}, {""id"": 16, ""name"": ""Animation""}]",953,Madagascar,86,6.6,3237
+75000000,"[{""id"": 35, ""name"": ""Comedy""}, {""id"": 10749, ""name"": ""Romance""}]",1824,50 First Dates,99,6.6,2105
+50000000,"[{""id"": 10751, ""name"": ""Family""}, {""id"": 35, ""name"": ""Comedy""}, {""id"": 10402, ""name"": ""Music""}, {""id"": 10749, ""name"": ""Romance""}]",2976,Hairspray,117,6.5,709
+75000000,"[{""id"": 16, ""name"": ""Animation""}, {""id"": 28, ""name"": ""Action""}, {""id"": 35, ""name"": ""Comedy""}, {""id"": 10751, ""name"": ""Family""}]",10555,Shark Tale,90,5.8,1557
+80000000,"[{""id"": 35, ""name"": ""Comedy""}]",2539,Spanglish,130,5.8,369
+82000000,"[{""id"": 28, ""name"": ""Action""}, {""id"": 14, ""name"": ""Fantasy""}, {""id"": 53, ""name"": ""Thriller""}]",23629,Sucker Punch,110,5.9,1623
+70000000,"[{""id"": 18, ""name"": ""Drama""}, {""id"": 28, ""name"": ""Action""}, {""id"": 53, ""name"": ""Thriller""}, {""id"": 10752, ""name"": ""War""}]",16869,Inglourious Basterds,153,7.9,6430
+69000000,"[{""id"": 16, ""name"": ""Animation""}, {""id"": 10751, ""name"": ""Family""}]",20352,Despicable Me,95,7.1,6478
+63000000,"[{""id"": 28, ""name"": ""Action""}, {""id"": 878, ""name"": ""Science Fiction""}]",603,The Matrix,136,7.9,8907
+61000000,"[{""id"": 18, ""name"": ""Drama""}, {""id"": 10402, ""name"": ""Music""}, {""id"": 10749, ""name"": ""Romance""}]",82695,Les Misérables,157,7.1,1884
+63000000,"[{""id"": 18, ""name"": ""Drama""}]",550,Fight Club,139,8.3,9413
+50000000,"[{""id"": 80, ""name"": ""Crime""}, {""id"": 14, ""name"": ""Fantasy""}, {""id"": 18, ""name"": ""Drama""}]",1427,Perfume: The Story of a Murderer,147,7.1,1165
+63000000,"[{""id"": 12, ""name"": ""Adventure""}, {""id"": 878, ""name"": ""Science Fiction""}]",329,Jurassic Park,127,7.6,4856
+44000000,"[{""id"": 80, ""name"": ""Crime""}, {""id"": 18, ""name"": ""Drama""}, {""id"": 9648, ""name"": ""Mystery""}, {""id"": 37, ""name"": ""Western""}]",273248,The Hateful Eight,167,7.6,4274
+60000000,"[{""id"": 35, ""name"": ""Comedy""}, {""id"": 10751, ""name"": ""Family""}]",14306,Marley & Me,115,6.9,1343
