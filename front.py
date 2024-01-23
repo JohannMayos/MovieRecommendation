@@ -6,13 +6,13 @@ import numpy as np
 from back import recommend_by_genres
 
 # Título da aplicação
-st.title("Avaliação de Filmes")
+st.title("Movie Recommendation")
 
 # Introdução e instruções
-st.write("Bem-vindo à nossa aplicação, nela você indicará quais gêneros de filme mais gosta e indicaremos os melhores dessa categoria para você")
+st.write("Welcome to our Application! Choose the movie genres which you like the most, in the end we´re going to recommend you some movies based in your tastes!")
 
 
-st.header("Gêneros de Filmes")
+st.header("Movie Genres")
 
 genres_dict = {
     "Action": False,
@@ -40,7 +40,7 @@ for genre in genres_dict:
 selected_genres = [genre for genre, state in genres_dict.items() if state]
 
 
-if st.button("Obter Recomendações"):
+if st.button("Get Your Movies!"):
 
   st.write(recommend_by_genres(selected_genres))
 
